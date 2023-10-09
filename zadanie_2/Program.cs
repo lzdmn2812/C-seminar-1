@@ -6,5 +6,7 @@ Console.WriteLine("Введите второе число: ");
 int number2 = int.Parse(Console.ReadLine());
  
 if (number2==number1*number1)
-Console.WriteLine("yes");
+{
+    Console.WriteLine("yes");
+}
 else Console.WriteLine("no");
