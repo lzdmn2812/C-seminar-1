@@ -19,3 +19,4 @@ if (number > 99 && number < 1000)
     Console.WriteLine("LastDigit=" + LastDigit);
 }
 else Console.WriteLine("LastDigit not three digit");
+ 
