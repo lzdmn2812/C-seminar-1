@@ -1,0 +1,15 @@
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\bin\Debug\net6.0\zadanie_3.exe
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\bin\Debug\net6.0\zadanie_3.deps.json
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\bin\Debug\net6.0\zadanie_3.runtimeconfig.json
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\bin\Debug\net6.0\zadanie_3.dll
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\bin\Debug\net6.0\zadanie_3.pdb
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.csproj.AssemblyReference.cache
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.AssemblyInfoInputs.cache
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.AssemblyInfo.cs
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.dll
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\refint\zadanie_3.dll
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.pdb
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\zadanie_3.genruntimeconfig.cache
+C:\Users\mezhe\Desktop\урок 1.1\C-seminar-1\seminar_8\zadanie_3\obj\Debug\net6.0\ref\zadanie_3.dll
