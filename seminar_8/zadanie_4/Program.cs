@@ -67,11 +67,11 @@ int[,] DeleteRowAndColumn(int[,] matrix, int MinI, int MinJ)
             int newIndex=0;
             if (i<MinI)
             {
-               newIndex=i;
+               newIndex=i;          
             }
-            if (i>MinI)
-            {
-                newIndex=i-1;
+            if (i>MinI)         // 4 6 8 5       4 6 5
+            {                   // 3 9 0 1       2 5 8
+                newIndex=i-1;   // 2 5 4 8 
             }
             int newJindex=0;
             if (j<MinJ)
