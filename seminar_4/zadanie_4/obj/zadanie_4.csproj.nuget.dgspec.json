@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mezhe\\Desktop\\урок 1.1\\seminar-4\\zadanie_4\\zadanie_4.csproj": {}
+    "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\seminar_4\\zadanie_4\\zadanie_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mezhe\\Desktop\\урок 1.1\\seminar-4\\zadanie_4\\zadanie_4.csproj": {
+    "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\seminar_4\\zadanie_4\\zadanie_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\seminar-4\\zadanie_4\\zadanie_4.csproj",
+        "projectUniqueName": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\seminar_4\\zadanie_4\\zadanie_4.csproj",
         "projectName": "zadanie_4",
-        "projectPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\seminar-4\\zadanie_4\\zadanie_4.csproj",
+        "projectPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\seminar_4\\zadanie_4\\zadanie_4.csproj",
         "packagesPath": "C:\\Users\\mezhe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\seminar-4\\zadanie_4\\obj\\",
+        "outputPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\seminar_4\\zadanie_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mezhe\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\dz-3\\zadanie_3\\zadanie_3.csproj",
+      "projectUniqueName": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\dz-3\\zadanie_3\\zadanie_3.csproj",
       "projectName": "zadanie_3",
-      "projectPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\dz-3\\zadanie_3\\zadanie_3.csproj",
+      "projectPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\dz-3\\zadanie_3\\zadanie_3.csproj",
       "packagesPath": "C:\\Users\\mezhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\dz-3\\zadanie_3\\obj\\",
+      "outputPath": "C:\\Users\\mezhe\\Desktop\\урок 1.1\\C-seminar-1\\dz-3\\zadanie_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mezhe\\AppData\\Roaming\\NuGet\\NuGet.Config"

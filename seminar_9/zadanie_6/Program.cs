@@ -15,3 +15,9 @@
 int number = 16;
 bool result = (number & (number - 1)) == 0;
 Console.WriteLine(result);
+
+for (int i = 0; i < length; i++)
+{ for (int i = 0; i < length; i++) {
+        
+    }
+}

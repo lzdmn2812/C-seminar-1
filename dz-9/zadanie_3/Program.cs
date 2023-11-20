@@ -24,12 +24,12 @@ int ReadInt(string msg)
 }
 
 int n=ReadInt("Введите число N: ");
-// if (n==4)
-// {
-//     Console.WriteLine("Что бы вы не выбрали дальше, это сломает ваш компьютер. Если хотите продолжить нажмите любую кнопку:) ");
-//     Console.ReadKey();
-//     Console.WriteLine();
-// }
+if (n==4)
+{
+    Console.WriteLine("Что бы вы не выбрали дальше, ваш компьютер не выдержит. Если хотите продолжить нажмите любую кнопку:) ");
+    Console.ReadKey();
+    Console.WriteLine();
+}
 
 int m=ReadInt("Введите число M: ");
 
